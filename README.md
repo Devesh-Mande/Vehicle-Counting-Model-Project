@@ -16,7 +16,7 @@ step5- If you want to know about how it is working then run the detector file us
 
 # Task for you 
 
-I Provided another video2, make the changes in main.py file and run it .
+I Provided another video (video2.mp4), make the changes in code of main.py file and run it .
 Find out the counting of vehicle.
 
 # Output Screenshots
