@@ -1,7 +1,7 @@
 # Vehicle-Counting-Model-Project
 Developed a vehicle counting model to accurately count vehicles entering in the college main gate.
 Basically This Project made for the college purpose only.
-For Counting the vehicle which enters in the college, I used CCTV Footage of Main Gate.
+For Counting the vehicle which enters in the college, I used CCTV Footage of College Main Gate.
 
 # How To Run The Project 
 step1- Download the zip file.
